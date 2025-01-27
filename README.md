@@ -8,7 +8,7 @@
 
 <hr />
 
-## How it works
+## How it works?
 
 - Compile and Open `p2p.exe` as admin in 2 different PC's.
 
